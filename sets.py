@@ -13,3 +13,5 @@ print(s)
 s.remove(2)
 
 print(s)
+
+print(f"The set has {len(s)} elements.")
